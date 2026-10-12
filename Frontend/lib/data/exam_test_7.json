@@ -1,0 +1,2472 @@
+{
+  "id": 1,
+  "title": "TOEIC Reading Test 7 (ETS 2019)",
+  "durationMinutes": 75,
+  "totalQuestions": 100,
+  "parts": [
+    {
+      "partNumber": 5,
+      "name": "Part 5: Incomplete Sentences",
+      "questionStart": 101,
+      "questionEnd": 130,
+      "groups": [
+        {
+          "groupCode": "QG-Part5-Single",
+          "groupTitle": "Incomplete Sentences",
+          "passageText": "",
+          "questions": [
+            {
+              "questionNumber": 101,
+              "content": "If ------- are not satisfied with an item, return it for a full refund within 30 days of purchase.",
+              "correctOption": "A",
+              "options": [
+                {
+                  "label": "A",
+                  "content": "you"
+                },
+                {
+                  "label": "B",
+                  "content": "your"
+                },
+                {
+                  "label": "C",
+                  "content": "yours"
+                },
+                {
+                  "label": "D",
+                  "content": "yourself"
+                }
+              ]
+            },
+            {
+              "questionNumber": 102,
+              "content": "The location of next month's online gaming forum is yet to be -------.",
+              "correctOption": "D",
+              "options": [
+                {
+                  "label": "A",
+                  "content": "concluded"
+                },
+                {
+                  "label": "B",
+                  "content": "prevented"
+                },
+                {
+                  "label": "C",
+                  "content": "invited"
+                },
+                {
+                  "label": "D",
+                  "content": "decided"
+                }
+              ]
+            },
+            {
+              "questionNumber": 103,
+              "content": "Guests were ------- with the table decorations for the company banquet.",
+              "correctOption": "B",
+              "options": [
+                {
+                  "label": "A",
+                  "content": "impressive"
+                },
+                {
+                  "label": "B",
+                  "content": "impressed"
+                },
+                {
+                  "label": "C",
+                  "content": "impressing"
+                },
+                {
+                  "label": "D",
+                  "content": "impressively"
+                }
+              ]
+            },
+            {
+              "questionNumber": 104,
+              "content": "The Shubert Company is ------- effective at helping power plants reduce their carbon dioxide emissions.",
+              "correctOption": "D",
+              "options": [
+                {
+                  "label": "A",
+                  "content": "once"
+                },
+                {
+                  "label": "B",
+                  "content": "far"
+                },
+                {
+                  "label": "C",
+                  "content": "early"
+                },
+                {
+                  "label": "D",
+                  "content": "very"
+                }
+              ]
+            },
+            {
+              "questionNumber": 105,
+              "content": "Mr. Hodges ------- that volunteers sign up to assist with the Hannock River cleanup by Friday.",
+              "correctOption": "C",
+              "options": [
+                {
+                  "label": "A",
+                  "content": "requesting"
+                },
+                {
+                  "label": "B",
+                  "content": "to be requested"
+                },
+                {
+                  "label": "C",
+                  "content": "requests"
+                },
+                {
+                  "label": "D",
+                  "content": "to request"
+                }
+              ]
+            },
+            {
+              "questionNumber": 106,
+              "content": "Last year, the Daejeon English News ------- the number of readers by adding a digital subscription option.",
+              "correctOption": "B",
+              "options": [
+                {
+                  "label": "A",
+                  "content": "needed"
+                },
+                {
+                  "label": "B",
+                  "content": "increased"
+                },
+                {
+                  "label": "C",
+                  "content": "joined"
+                },
+                {
+                  "label": "D",
+                  "content": "asked"
+                }
+              ]
+            },
+            {
+              "questionNumber": 107,
+              "content": "Before the updated design can go into -------, it must be approved by management.",
+              "correctOption": "D",
+              "options": [
+                {
+                  "label": "A",
+                  "content": "product"
+                },
+                {
+                  "label": "B",
+                  "content": "producer"
+                },
+                {
+                  "label": "C",
+                  "content": "productive"
+                },
+                {
+                  "label": "D",
+                  "content": "production"
+                }
+              ]
+            },
+            {
+              "questionNumber": 108,
+              "content": "The economic development summit will be held ------- the Xi'an Trade Tower on September 22.",
+              "correctOption": "B",
+              "options": [
+                {
+                  "label": "A",
+                  "content": "to"
+                },
+                {
+                  "label": "B",
+                  "content": "at"
+                },
+                {
+                  "label": "C",
+                  "content": "down"
+                },
+                {
+                  "label": "D",
+                  "content": "of"
+                }
+              ]
+            },
+            {
+              "questionNumber": 109,
+              "content": "Inclement weather was ------- responsible for the low turnout at Saturday's Exton Music Festival.",
+              "correctOption": "A",
+              "options": [
+                {
+                  "label": "A",
+                  "content": "largely"
+                },
+                {
+                  "label": "B",
+                  "content": "large"
+                },
+                {
+                  "label": "C",
+                  "content": "largest"
+                },
+                {
+                  "label": "D",
+                  "content": "larger"
+                }
+              ]
+            },
+            {
+              "questionNumber": 110,
+              "content": "Our most recent survey was sent to clients just last week, ------- it is too soon to send another one.",
+              "correctOption": "C",
+              "options": [
+                {
+                  "label": "A",
+                  "content": "when"
+                },
+                {
+                  "label": "B",
+                  "content": "since"
+                },
+                {
+                  "label": "C",
+                  "content": "so"
+                },
+                {
+                  "label": "D",
+                  "content": "finally"
+                }
+              ]
+            },
+            {
+              "questionNumber": 111,
+              "content": "------- necklace that is shipped from Gillis Designers is given a thorough quality check.",
+              "correctOption": "D",
+              "options": [
+                {
+                  "label": "A",
+                  "content": "Whenever"
+                },
+                {
+                  "label": "B",
+                  "content": "Also"
+                },
+                {
+                  "label": "C",
+                  "content": "All"
+                },
+                {
+                  "label": "D",
+                  "content": "Each"
+                }
+              ]
+            },
+            {
+              "questionNumber": 112,
+              "content": "Ms. Valdez' sales numbers are good ------- for her to be considered for the employee-of-the-month award.",
+              "correctOption": "D",
+              "options": [
+                {
+                  "label": "A",
+                  "content": "forward"
+                },
+                {
+                  "label": "B",
+                  "content": "even"
+                },
+                {
+                  "label": "C",
+                  "content": "ahead"
+                },
+                {
+                  "label": "D",
+                  "content": "enough"
+                }
+              ]
+            },
+            {
+              "questionNumber": 113,
+              "content": "Aaron Park's new book features photographs of homes designed and built by the homeowners -------.",
+              "correctOption": "C",
+              "options": [
+                {
+                  "label": "A",
+                  "content": "itself"
+                },
+                {
+                  "label": "B",
+                  "content": "himself"
+                },
+                {
+                  "label": "C",
+                  "content": "themselves"
+                },
+                {
+                  "label": "D",
+                  "content": "ourselves"
+                }
+              ]
+            },
+            {
+              "questionNumber": 114,
+              "content": "It is ------- for the audience to hold its applause until the speaker has finished .",
+              "correctOption": "D",
+              "options": [
+                {
+                  "label": "A",
+                  "content": "enthusiastic"
+                },
+                {
+                  "label": "B",
+                  "content": "casual"
+                },
+                {
+                  "label": "C",
+                  "content": "exclusive"
+                },
+                {
+                  "label": "D",
+                  "content": "customary"
+                }
+              ]
+            },
+            {
+              "questionNumber": 115,
+              "content": "Despite ------- that Legend Air would perform poorly with the entry of cheaper competition, it posted strong second-quarter earnings.",
+              "correctOption": "D",
+              "options": [
+                {
+                  "label": "A",
+                  "content": "predicted"
+                },
+                {
+                  "label": "B",
+                  "content": "predictable"
+                },
+                {
+                  "label": "C",
+                  "content": "predicts"
+                },
+                {
+                  "label": "D",
+                  "content": "predictions"
+                }
+              ]
+            },
+            {
+              "questionNumber": 116,
+              "content": "Mr. Nigam was ------- retirement when his boss asked him to be the head of security at the new facility.",
+              "correctOption": "D",
+              "options": [
+                {
+                  "label": "A",
+                  "content": "under"
+                },
+                {
+                  "label": "B",
+                  "content": "ahead of"
+                },
+                {
+                  "label": "C",
+                  "content": "nearby"
+                },
+                {
+                  "label": "D",
+                  "content": "close to"
+                }
+              ]
+            },
+            {
+              "questionNumber": 117,
+              "content": "Main Street Restaurant offers a menu of ------- prepared lunch and dinner meals.",
+              "correctOption": "D",
+              "options": [
+                {
+                  "label": "A",
+                  "content": "thought"
+                },
+                {
+                  "label": "B",
+                  "content": "thoughtfulness"
+                },
+                {
+                  "label": "C",
+                  "content": "thoughts"
+                },
+                {
+                  "label": "D",
+                  "content": "thoughtfully"
+                }
+              ]
+            },
+            {
+              "questionNumber": 118,
+              "content": "------- our public relations manager, Ms. Ghazarian has just been appointed vice president of media relations.",
+              "correctOption": "D",
+              "options": [
+                {
+                  "label": "A",
+                  "content": "Sincerely"
+                },
+                {
+                  "label": "B",
+                  "content": "Immediately"
+                },
+                {
+                  "label": "C",
+                  "content": "Solely"
+                },
+                {
+                  "label": "D",
+                  "content": "Formerly"
+                }
+              ]
+            },
+            {
+              "questionNumber": 119,
+              "content": "Videos of Korean pop music have become very popular ------- adolescents worldwide.",
+              "correctOption": "C",
+              "options": [
+                {
+                  "label": "A",
+                  "content": "including"
+                },
+                {
+                  "label": "B",
+                  "content": "whereas"
+                },
+                {
+                  "label": "C",
+                  "content": "among"
+                },
+                {
+                  "label": "D",
+                  "content": "within"
+                }
+              ]
+            },
+            {
+              "questionNumber": 120,
+              "content": "Milante Shoes ------- altered the firm's marketing strategy after a recent economic shift.",
+              "correctOption": "C",
+              "options": [
+                {
+                  "label": "A",
+                  "content": "quick"
+                },
+                {
+                  "label": "B",
+                  "content": "quickest"
+                },
+                {
+                  "label": "C",
+                  "content": "quickly"
+                },
+                {
+                  "label": "D",
+                  "content": "quicken"
+                }
+              ]
+            },
+            {
+              "questionNumber": 121,
+              "content": "The annual report has been posted online, ------- the director's office has not yet received a printed copy.",
+              "correctOption": "A",
+              "options": [
+                {
+                  "label": "A",
+                  "content": "but"
+                },
+                {
+                  "label": "B",
+                  "content": "why"
+                },
+                {
+                  "label": "C",
+                  "content": "with"
+                },
+                {
+                  "label": "D",
+                  "content": "once"
+                }
+              ]
+            },
+            {
+              "questionNumber": 122,
+              "content": "Hasin Fariz turned a study on the ------- effects of sleep into a best-selling book.",
+              "correctOption": "A",
+              "options": [
+                {
+                  "label": "A",
+                  "content": "favorable"
+                },
+                {
+                  "label": "B",
+                  "content": "favor"
+                },
+                {
+                  "label": "C",
+                  "content": "favors"
+                },
+                {
+                  "label": "D",
+                  "content": "favorably"
+                }
+              ]
+            },
+            {
+              "questionNumber": 123,
+              "content": "Wynston Containers is ------- a yearly shutdown of its factory so that it can be evaluated for safety and efficiency.",
+              "correctOption": "C",
+              "options": [
+                {
+                  "label": "A",
+                  "content": "involving"
+                },
+                {
+                  "label": "B",
+                  "content": "participating"
+                },
+                {
+                  "label": "C",
+                  "content": "implementing"
+                },
+                {
+                  "label": "D",
+                  "content": "producing"
+                }
+              ]
+            },
+            {
+              "questionNumber": 124,
+              "content": "The Girard Botanical Archive has almost 300,000 plant -------, all neatly pressed onto archival paper.",
+              "correctOption": "B",
+              "options": [
+                {
+                  "label": "A",
+                  "content": "authorities"
+                },
+                {
+                  "label": "B",
+                  "content": "specimens"
+                },
+                {
+                  "label": "C",
+                  "content": "founders"
+                },
+                {
+                  "label": "D",
+                  "content": "specifics"
+                }
+              ]
+            },
+            {
+              "questionNumber": 125,
+              "content": "Hotels and universities are ------- to recycle their used mattresses through the city's recycling program.",
+              "correctOption": "B",
+              "options": [
+                {
+                  "label": "A",
+                  "content": "systematic"
+                },
+                {
+                  "label": "B",
+                  "content": "eligible"
+                },
+                {
+                  "label": "C",
+                  "content": "familiar"
+                },
+                {
+                  "label": "D",
+                  "content": "successful"
+                }
+              ]
+            },
+            {
+              "questionNumber": 126,
+              "content": "The ------- to review plans to replace the Tronton Bridge will be scheduled soon.",
+              "correctOption": "C",
+              "options": [
+                {
+                  "label": "A",
+                  "content": "heard"
+                },
+                {
+                  "label": "B",
+                  "content": "hears"
+                },
+                {
+                  "label": "C",
+                  "content": "hearing"
+                },
+                {
+                  "label": "D",
+                  "content": "hear"
+                }
+              ]
+            },
+            {
+              "questionNumber": 127,
+              "content": "Kovox Ltd. aims to optimize quality ------- reducing the impact on the environment.",
+              "correctOption": "B",
+              "options": [
+                {
+                  "label": "A",
+                  "content": "which"
+                },
+                {
+                  "label": "B",
+                  "content": "while"
+                },
+                {
+                  "label": "C",
+                  "content": "because"
+                },
+                {
+                  "label": "D",
+                  "content": "unless"
+                }
+              ]
+            },
+            {
+              "questionNumber": 128,
+              "content": "The grocery store ------- vegetables from out of town until local prices went down last month.",
+              "correctOption": "D",
+              "options": [
+                {
+                  "label": "A",
+                  "content": "is buying"
+                },
+                {
+                  "label": "B",
+                  "content": "will be buying"
+                },
+                {
+                  "label": "C",
+                  "content": "has been buying"
+                },
+                {
+                  "label": "D",
+                  "content": "had been buying"
+                }
+              ]
+            },
+            {
+              "questionNumber": 129,
+              "content": "All Hershel Industries employees must have a valid ID card ------- enter the building.",
+              "correctOption": "A",
+              "options": [
+                {
+                  "label": "A",
+                  "content": "in order to"
+                },
+                {
+                  "label": "B",
+                  "content": "as long as"
+                },
+                {
+                  "label": "C",
+                  "content": "regarding"
+                },
+                {
+                  "label": "D",
+                  "content": "always"
+                }
+              ]
+            },
+            {
+              "questionNumber": 130,
+              "content": "------- and cost factored equally in choosing Cantavox as our main supplier.",
+              "correctOption": "A",
+              "options": [
+                {
+                  "label": "A",
+                  "content": "Reliability"
+                },
+                {
+                  "label": "B",
+                  "content": "Allowance"
+                },
+                {
+                  "label": "C",
+                  "content": "Dependence"
+                },
+                {
+                  "label": "D",
+                  "content": "Estimation"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "partNumber": 6,
+      "name": "Part 6: Text Completion",
+      "questionStart": 131,
+      "questionEnd": 146,
+      "groups": [
+        {
+          "groupCode": "QG-131-134",
+          "groupTitle": "Part 6 – Letter: PGD Bank",
+          "passageText": "[SOURCE PAGE 5]PARTSDirections: Read the texts that follow. A word, phrase, or sentence is missing in parts of each text.Four answer choices for each question are given below the text. Select the best answer to completethe text. Then mark the letter (A), (B), (C), or (D) on your answer sheet.   Dear PGD Account Holder,  PGD Bank strives ------- the highest levels of client security and service. This applies not only to                      131.   online- and telephone-based services, but also to our brick-and-mortar locations. Our three   branch offices have proudly been a part of the community------- a combined total of 40 years.                                                              132.   To assist you even better in the future, our Smithville branch will be temporarily closed for   renovations July 8-22. ------- . In the meantime, our other two regional branches in Pine Grove and                           133.   Bradford will maintain normal business ------- . We value your feedback and will respond to any                                           134.   concerns that you may have as soon as possible.",
+          "questions": [
+            {
+              "questionNumber": 131,
+              "content": "PGD Bank strives ------- the highest levels of client security and service.",
+              "correctOption": "A",
+              "options": [
+                {
+                  "label": "A",
+                  "content": "to provide"
+                },
+                {
+                  "label": "B",
+                  "content": "provided"
+                },
+                {
+                  "label": "C",
+                  "content": "providing"
+                },
+                {
+                  "label": "D",
+                  "content": "to be provided"
+                }
+              ]
+            },
+            {
+              "questionNumber": 132,
+              "content": "Our three branch offices have proudly been a part of the community ------- a combined total of 40 years.",
+              "correctOption": "D",
+              "options": [
+                {
+                  "label": "A",
+                  "content": "except"
+                },
+                {
+                  "label": "B",
+                  "content": "amid"
+                },
+                {
+                  "label": "C",
+                  "content": "near"
+                },
+                {
+                  "label": "D",
+                  "content": "for"
+                }
+              ]
+            },
+            {
+              "questionNumber": 133,
+              "content": "Renovations July 8–22. -------.",
+              "correctOption": "C",
+              "options": [
+                {
+                  "label": "A",
+                  "content": "Unfortunately, services will be limited."
+                },
+                {
+                  "label": "B",
+                  "content": "We thank you for trusting in PGD Bank over these years."
+                },
+                {
+                  "label": "C",
+                  "content": "We apologize for any inconvenience this may cause."
+                },
+                {
+                  "label": "D",
+                  "content": "Traffic on the boulevard has increased lately."
+                }
+              ]
+            },
+            {
+              "questionNumber": 134,
+              "content": "Bradford will maintain normal business -------.",
+              "correctOption": "C",
+              "options": [
+                {
+                  "label": "A",
+                  "content": "investments"
+                },
+                {
+                  "label": "B",
+                  "content": "hiring"
+                },
+                {
+                  "label": "C",
+                  "content": "hours"
+                },
+                {
+                  "label": "D",
+                  "content": "interests"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "groupCode": "QG-135-138",
+          "groupTitle": "Part 6 – E-mail: Cost Accountant position",
+          "passageText": "[SOURCE PAGE 6]   To: Samuel Archerson <sarcherson@vona.co.uk>   From: James Darrers <jdarrers@sky.co.uk>   Date: 10 January   Subject: Cost Accountant position   Dear Mr. Archerson,  Thank you for taking the time to meet with me today.  I ------- our conversation, and I remain very                                                         135.   interested in the position of cost accountant.  I would welcome the opportunity to return for the   third and final round of ------- .                          136.     I am confident my years of accounting experience would benefit your firm. As discussed, over the   last ten years,  I have helped many companies save a ------- amount of money.  I am especially                                                          137.   adept at analysing the day-to-day operations of a business and helping to determine more   cost-effective methods.     I checked regarding your question about a potential start date. ------- . I hope to hear from you in                                                          138",
+          "questions": [
+            {
+              "questionNumber": 135,
+              "content": "I ------- our conversation, and I remain very interested in the position of cost accountant.",
+              "correctOption": "B",
+              "options": [
+                {
+                  "label": "A",
+                  "content": "enjoy"
+                },
+                {
+                  "label": "B",
+                  "content": "enjoyed"
+                },
+                {
+                  "label": "C",
+                  "content": "enjoying"
+                },
+                {
+                  "label": "D",
+                  "content": "will enjoy"
+                }
+              ]
+            },
+            {
+              "questionNumber": 136,
+              "content": "I would welcome the opportunity to return for the third and final round of -------.",
+              "correctOption": "C",
+              "options": [
+                {
+                  "label": "A",
+                  "content": "revisions"
+                },
+                {
+                  "label": "B",
+                  "content": "promotions"
+                },
+                {
+                  "label": "C",
+                  "content": "interviews"
+                },
+                {
+                  "label": "D",
+                  "content": "receptions"
+                }
+              ]
+            },
+            {
+              "questionNumber": 137,
+              "content": "I have helped many companies save a ------- amount of money.",
+              "correctOption": "D",
+              "options": [
+                {
+                  "label": "A",
+                  "content": "substance"
+                },
+                {
+                  "label": "B",
+                  "content": "substantiate"
+                },
+                {
+                  "label": "C",
+                  "content": "substantially"
+                },
+                {
+                  "label": "D",
+                  "content": "substantial"
+                }
+              ]
+            },
+            {
+              "questionNumber": 138,
+              "content": "I checked regarding your question about a potential start date. -------.",
+              "correctOption": "B",
+              "options": [
+                {
+                  "label": "A",
+                  "content": "I have four additional questions to ask you."
+                },
+                {
+                  "label": "B",
+                  "content": "I would be able to begin during the first week of February."
+                },
+                {
+                  "label": "C",
+                  "content": "I am confident I have the potential for this position."
+                },
+                {
+                  "label": "D",
+                  "content": "Thank you for the offer of employment."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "groupCode": "QG-139-142",
+          "groupTitle": "Part 6 – E-mail: Canterbury Airport project",
+          "passageText": "[SOURCE PAGE 7]   To: Mason Wu <mwu@wustudios.co.nz>  From: Trent Tuiloma <ttuiloma@canterburyairport.co.nz>   Subject: Canterbury Airport project  Date: Monday, 2 July  Dear Mr. Wu,  Thank you for agreeing to consult on the Canterbury Airport redesign project. ------- . As a result,                                                                               139.    I am particularly eager to hear your ideas about upgrading our main terminal.  Can we meet this week? There are a number of ----- -- restaurants near my office. If you are                                            140 .  available this Friday, we could meet at Celia's Cafe on Cumberland Street.  I would also like  a few of my colleagues to ------- us. They would appreciate ----.-- ways to enhance the airport                             141.                             142.  user's experience.    I look forward to hearing from you soon.  Sincerely",
+          "questions": [
+            {
+              "questionNumber": 139,
+              "content": "Thank you for agreeing to consult on the Canterbury Airport redesign project. -------. As a result, I am particularly eager to hear your ideas about upgrading our main terminal.",
+              "correctOption": "C",
+              "options": [
+                {
+                  "label": "A",
+                  "content": "I can meet you when you arrive."
+                },
+                {
+                  "label": "B",
+                  "content": "Scheduling flights can be quite tricky."
+                },
+                {
+                  "label": "C",
+                  "content": "I have long admired your work on regional airports."
+                },
+                {
+                  "label": "D",
+                  "content": "There are several dining options at the airport."
+                }
+              ]
+            },
+            {
+              "questionNumber": 140,
+              "content": "There are a number of ------- restaurants near my office.",
+              "correctOption": "B",
+              "options": [
+                {
+                  "label": "A",
+                  "content": "excel"
+                },
+                {
+                  "label": "B",
+                  "content": "excellent"
+                },
+                {
+                  "label": "C",
+                  "content": "excellently"
+                },
+                {
+                  "label": "D",
+                  "content": "excelled"
+                }
+              ]
+            },
+            {
+              "questionNumber": 141,
+              "content": "I would also like a few of my colleagues to ------- us.",
+              "correctOption": "A",
+              "options": [
+                {
+                  "label": "A",
+                  "content": "join"
+                },
+                {
+                  "label": "B",
+                  "content": "pay"
+                },
+                {
+                  "label": "C",
+                  "content": "remind"
+                },
+                {
+                  "label": "D",
+                  "content": "defend"
+                }
+              ]
+            },
+            {
+              "questionNumber": 142,
+              "content": "They would appreciate ------- ways to enhance the airport user’s experience.",
+              "correctOption": "B",
+              "options": [
+                {
+                  "label": "A",
+                  "content": "to discuss"
+                },
+                {
+                  "label": "B",
+                  "content": "discussing"
+                },
+                {
+                  "label": "C",
+                  "content": "discuss"
+                },
+                {
+                  "label": "D",
+                  "content": "discussed"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "groupCode": "QG-143-146",
+          "groupTitle": "Part 6 – Article: Shiresberry Film Festival",
+          "passageText": "[SOURCE PAGE 8]  SHIRESBERRY (February 15)- The second annual Shiresberry Film Festival begins on April 18   and ------- for five weeks. This year's offerings will not be limited to entries from North America and         143.   Europe. We will also be presenting -------from Asia and South America. And everyone's favorite                                        144.   feature from last year's festival will be back: directors and screenwriters will hold   question-and-answer sessions after their films' initial screening. Make sure you do not miss this      --1-4--5--. event. Tickets always sell out quickly. -------146.  . Shiresberry Film Club members can now   purchase priority tickets. Visit the Shiresberry Theater box office or www.shiresberrytheater.com.143. (A) run                                     146.  (A) The awards will be presented by      (B) has run                                         Hunter Johns.      (C) will run                                           (B) Renovations to the space are nearly      (D) ran                                              complete.                                                          (C) The later offerings were an even144. (A) movies                                             bigger success.      (B) clothing                                         (D) Sales are open to the general public      (C) food                                           on March 3.      (D) books",
+          "questions": [
+            {
+              "questionNumber": 143,
+              "content": "The second annual Shiresberry Film Festival begins on April 18 and ------- for five weeks.",
+              "correctOption": "C",
+              "options": [
+                {
+                  "label": "A",
+                  "content": "run"
+                },
+                {
+                  "label": "B",
+                  "content": "has run"
+                },
+                {
+                  "label": "C",
+                  "content": "will run"
+                },
+                {
+                  "label": "D",
+                  "content": "ran"
+                }
+              ]
+            },
+            {
+              "questionNumber": 144,
+              "content": "We will also be presenting ------- from Asia and South America.",
+              "correctOption": "A",
+              "options": [
+                {
+                  "label": "A",
+                  "content": "movies"
+                },
+                {
+                  "label": "B",
+                  "content": "clothing"
+                },
+                {
+                  "label": "C",
+                  "content": "food"
+                },
+                {
+                  "label": "D",
+                  "content": "books"
+                }
+              ]
+            },
+            {
+              "questionNumber": 145,
+              "content": "Make sure you do not miss this ------- event.",
+              "correctOption": "B",
+              "options": [
+                {
+                  "label": "A",
+                  "content": "political"
+                },
+                {
+                  "label": "B",
+                  "content": "popular"
+                },
+                {
+                  "label": "C",
+                  "content": "practical"
+                },
+                {
+                  "label": "D",
+                  "content": "preliminary"
+                }
+              ]
+            },
+            {
+              "questionNumber": 146,
+              "content": "Tickets always sell out quickly. -------.",
+              "correctOption": "D",
+              "options": [
+                {
+                  "label": "A",
+                  "content": "The awards will be presented by Hunter Johns."
+                },
+                {
+                  "label": "B",
+                  "content": "Renovations to the space are nearly complete."
+                },
+                {
+                  "label": "C",
+                  "content": "The later offerings were an even bigger success."
+                },
+                {
+                  "label": "D",
+                  "content": "Sales are open to the general public on March 3."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "partNumber": 7,
+      "name": "Part 7: Reading Comprehension",
+      "questionStart": 147,
+      "questionEnd": 200,
+      "groups": [
+        {
+          "groupCode": "QG-147-148",
+          "groupTitle": "Advertisement: Sedwick Electronics Hiring Event",
+          "passageText": "[SOURCE PAGE 9]PART7  Directions: In this part you will read a selection of texts, such as magazine and newspaper articles,  e-mails, and instant messages. Each text or set of texts is followed by several questions. Select the  best answer for each question and mark the letter (A), (B), (C), or (D) on your answer sheet.               Sedwick Electronics Hiring Event                         March 2,10 A.M.-5 P.M.                         22 Myer Stt·eet, Hanover, PA 17331   Sedwick Electronics is opening a new manufacturing facility in Hanover, Pennsylvania,    and we need to fill many positions. We offer a wonderful work environment and great    benefits to our employees.   Come to the event and hear from employees from our Lancaster facility about their    experience, learn about the open positions, and speak with our recruiters. No RSVP     is necessary. Bring copies of your resume.",
+          "questions": [
+            {
+              "questionNumber": 147,
+              "content": "For whom is the advertisement intended?",
+              "correctOption": "B",
+              "options": [
+                {
+                  "label": "A",
+                  "content": "Recruiters"
+                },
+                {
+                  "label": "B",
+                  "content": "Job seekers"
+                },
+                {
+                  "label": "C",
+                  "content": "Local business owners"
+                },
+                {
+                  "label": "D",
+                  "content": "Current Sedwick Electronics employees"
+                }
+              ]
+            },
+            {
+              "questionNumber": 148,
+              "content": "What is stated about Sedwick Electronics?",
+              "correctOption": "D",
+              "options": [
+                {
+                  "label": "A",
+                  "content": "It is moving its headquarters."
+                },
+                {
+                  "label": "B",
+                  "content": "It offers a training program for new employees."
+                },
+                {
+                  "label": "C",
+                  "content": "It requires employees to wear uniforms."
+                },
+                {
+                  "label": "D",
+                  "content": "It will have more than one location."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "groupCode": "QG-149-150",
+          "groupTitle": "Notice: Aguni Plumbing Supply Returns",
+          "passageText": "[SOURCE PAGE 10]                  Aguni Plumbing Supply Returns         Beginning March 1 at all Aguni Plumbing Supply locations, customers             will be able to come to our stores to return purchases made online. For        a complete refund, the return must be made within 30 days of purchase        and must be accompanied by a receipt. In addition, the merchandise        must be returned in the original packaging, and all components must        be included. After 30 days, refunds will be limited to in-store credit only.          Defective items may be exchanged for the same item only.",
+          "questions": [
+            {
+              "questionNumber": 149,
+              "content": "What will happen on March 1 ?",
+              "correctOption": "B",
+              "options": [
+                {
+                  "label": "A",
+                  "content": "A shipment will be returned ."
+                },
+                {
+                  "label": "B",
+                  "content": "A new policy will go into effect."
+                },
+                {
+                  "label": "C",
+                  "content": "A promotional sale will take place."
+                },
+                {
+                  "label": "D",
+                  "content": "A customer survey will be published. 212"
+                }
+              ]
+            },
+            {
+              "questionNumber": 150,
+              "content": "What is NOT a requirement for a complete refund?",
+              "correctOption": "A",
+              "options": [
+                {
+                  "label": "A",
+                  "content": "The return must be made at the original purchase location."
+                },
+                {
+                  "label": "B",
+                  "content": "The return must be made within a certain time frame."
+                },
+                {
+                  "label": "C",
+                  "content": "The item must be returned with all its components."
+                },
+                {
+                  "label": "D",
+                  "content": "The item must be returned in the original packaging."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "groupCode": "QG-151-152",
+          "groupTitle": "Information: Springfield Community School Computer Courses",
+          "passageText": "[SOURCE PAGE 11]                                                                                                          A             Springfield Community School                    Computer Courses       Internet Safety        This course teaches students everything they need to navigate the     Web safely.          Course ID    Class Time               Instructor     Room          249800:01    Tuesday 5:30-7:30 PM.      Patrick McCann   211          249800:02    Saturday 1:00-3:00 PM.    Nora Farid       166      Spreadsheet Basics       This course teaches the basics of online spreadsheets. Students will learn     how to create effective charts for calculating and analyzing data clearly      and easily.          Course ID    Class Time               Instructor     Room          225810:01    Thursday 5:30- 8:30 PM.   Remi Sanders    118          225810:02   Sunday 1:00-4:00 PM.     Nora Farid       315                                                                                                                            I--                                                                                                               T151 Why would people enroll in the course         152  What is indicated about Ms Farid?",
+          "questions": [
+            {
+              "questionNumber": 151,
+              "content": "Why would people enroll in the course taught by Ms. Sanders?",
+              "correctOption": "C",
+              "options": [
+                {
+                  "label": "A",
+                  "content": "To practice designing Web sites"
+                },
+                {
+                  "label": "B",
+                  "content": "To improve their Internet searches"
+                },
+                {
+                  "label": "C",
+                  "content": "To get tips on creating spreadsheets"
+                },
+                {
+                  "label": "D",
+                  "content": "To learn how to advertise on the Internet"
+                }
+              ]
+            },
+            {
+              "questionNumber": 152,
+              "content": "What is indicated about Ms. Farid?",
+              "correctOption": "C",
+              "options": [
+                {
+                  "label": "A",
+                  "content": "She also teaches children."
+                },
+                {
+                  "label": "B",
+                  "content": "She is Ms. Sanders' supervisor."
+                },
+                {
+                  "label": "C",
+                  "content": "She teaches twice a week."
+                },
+                {
+                  "label": "D",
+                  "content": "She used to work as a data analyst."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "groupCode": "QG-153-154",
+          "groupTitle": "Text-message chain: Sally Witham and Wakiko Ohara",
+          "passageText": "[SOURCE PAGE 12]                                   • ••                             /Sally Witham (4:47 P.M.)                       Hi Wakiko. I just finished up here at                              the Kyoto store. I'll be on the train                                that arrives in Tokyo at 11:35 tomorrow                           morning. How should I get to your                               location?                     Wakiko Ohara (4:48 P.M.)                                              I'll have an associate pick you up at the                                 station. How do things look in Kyoto?                            Sally Witham (4:49 P.M.)                       The Kyoto store is doing a great job.                                        It has everything that we at the home                                 office are looking for. Athletic shoes                          and sandals are displayed according to                                 specifications, and sales associates are                                friendly and knowledgeable.                  L                     Wakiko Ohara (4:51 P.M.)                   ' ·                        You should like things here, too. Do                          you want to begin your visit after lunch,     1say at 2:00?",
+          "questions": [
+            {
+              "questionNumber": 153,
+              "content": "Why did Ms. Witham contact Ms. Ohara?",
+              "correctOption": "B",
+              "options": [
+                {
+                  "label": "A",
+                  "content": "To review sales figures"
+                },
+                {
+                  "label": "B",
+                  "content": "To arrange a store visit"
+                },
+                {
+                  "label": "C",
+                  "content": "To discuss employee performance reviews"
+                },
+                {
+                  "label": "D",
+                  "content": "To determine the most convenient train to take"
+                }
+              ]
+            },
+            {
+              "questionNumber": 154,
+              "content": "At 4:51 P.M., what does Ms. Ohara most likely mean when she writes, \"You should like things here, too\"?",
+              "correctOption": "A",
+              "options": [
+                {
+                  "label": "A",
+                  "content": "The Tokyo store is being run according to corporate policy."
+                },
+                {
+                  "label": "B",
+                  "content": "Ms. Witham will find the athletic shoes she needs."
+                },
+                {
+                  "label": "C",
+                  "content": "Ms. Ohara's associate is always punctual."
+                },
+                {
+                  "label": "D",
+                  "content": "The Tokyo store is located next to a popular restaurant."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "groupCode": "QG-155-157",
+          "groupTitle": "Report: Blaine River Drawbridge",
+          "passageText": "[SOURCE PAGE 14]   Structure: Blaine River Drawbridge      Location: Ridgeline Highway, KM 147   Main span material: Steel girder       Owner: State Highway Agency   Age of structure: 30 years             Report completed by: Vivian Tulio                                          Date: October 17    Notes:   The bridge is overall structurally sound. Inform Department of Transportation about    small cracks in asphalt.   Bridge component         Rating      Key to ratings                                     1 Failed; immediate closure required   Support elements         4                                        2 Deteriorated; may fail soon   Towers                 4                                        3 Shows deterioration but still functions within   Road surface             3               acceptable parameters                                        4 Shows minor wear   Drainage features         4                                     5 New condition   Safety barriers             5                                         6 Not applicable   Sidewalk or walkway       6",
+          "questions": [
+            {
+              "questionNumber": 155,
+              "content": "What did Ms. Tulia most likely do?",
+              "correctOption": "C",
+              "options": [
+                {
+                  "label": "A",
+                  "content": "Make repairs"
+                },
+                {
+                  "label": "B",
+                  "content": "Hire a contractor"
+                },
+                {
+                  "label": "C",
+                  "content": "Perform an inspection"
+                },
+                {
+                  "label": "D",
+                  "content": "Authorize a construction plan"
+                }
+              ]
+            },
+            {
+              "questionNumber": 156,
+              "content": "What part of the structure is in most need of maintenance?",
+              "correctOption": "B",
+              "options": [
+                {
+                  "label": "A",
+                  "content": "The support elements"
+                },
+                {
+                  "label": "B",
+                  "content": "The road surface"
+                },
+                {
+                  "label": "C",
+                  "content": "The drainage features"
+                },
+                {
+                  "label": "D",
+                  "content": "The safety barriers 216"
+                }
+              ]
+            },
+            {
+              "questionNumber": 157,
+              "content": "What is probably true about the Blaine River Drawbridge?",
+              "correctOption": "A",
+              "options": [
+                {
+                  "label": "A",
+                  "content": "It was not designed for pedestrian use."
+                },
+                {
+                  "label": "B",
+                  "content": "It will be closed for the month of October."
+                },
+                {
+                  "label": "C",
+                  "content": "It does not have the required signage."
+                },
+                {
+                  "label": "D",
+                  "content": "It is the oldest bridge on the Ridgeline Highway."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "groupCode": "QG-158-160",
+          "groupTitle": "Article: Subway Sound to be Upgraded",
+          "passageText": "[SOURCE PAGE 15]      Subway Sound to be Upgraded     heard the reports about it on TV, and all I can                                                   say is that it is about time!\"    BOSTON  (April  1)-The  public  address                                         Some of the systems currently in use are       systems  at  selected subway  stations  are                                           more than 30 years old. Worn-out speakers,       scheduled  to  be  refurbished,  the  Transit                                                      wiring, microphones, and amplifiers will be       Authority announced this week. The systems                                                    replaced with new, more  reliable devices.        are  used   to  make  announcements   to                                          The work should be completed in October      commuters both on the platforms and in the                                               and cost more than $11 million.        stations.                                                      Boston's subway system came together          Local commuters welcomed the news,                                                             in stages over the course of several years.       although for some it was long overdue.                                          The foundational component of the system's             \"It can be pretty difficult to understand                                             Green Line first opened on Tremont Street in       the announcements at some of the stations I                                                        the late 1890s. It was the first of its kind in       use most frequently,\" said Ian Miller, who                                                        the United States.       has taken the subway to work nearly every      week  for  the past eighteen years. \"I had",
+          "questions": [
+            {
+              "questionNumber": 158,
+              "content": "What is the purpose of the article?",
+              "correctOption": "B",
+              "options": [
+                {
+                  "label": "A",
+                  "content": "To clarify where subway riders can locate information"
+                },
+                {
+                  "label": "B",
+                  "content": "To describe improvements at some subway stations"
+                },
+                {
+                  "label": "C",
+                  "content": "To announce the creation of a new subway line"
+                },
+                {
+                  "label": "D",
+                  "content": "To explain why subway schedules will be revised"
+                }
+              ]
+            },
+            {
+              "questionNumber": 159,
+              "content": "How does Mr. Miller feel about the plans?",
+              "correctOption": "D",
+              "options": [
+                {
+                  "label": "A",
+                  "content": "He expects the project to fail."
+                },
+                {
+                  "label": "B",
+                  "content": "He is concerned about the cost."
+                },
+                {
+                  "label": "C",
+                  "content": "He believes the work is unnecessary."
+                },
+                {
+                  "label": "D",
+                  "content": "He has been waiting for the changes."
+                }
+              ]
+            },
+            {
+              "questionNumber": 160,
+              "content": "The word \"stages\" in paragraph 5, line 2, is closest in meaning to",
+              "correctOption": "A",
+              "options": [
+                {
+                  "label": "A",
+                  "content": "steps"
+                },
+                {
+                  "label": "B",
+                  "content": "scenes"
+                },
+                {
+                  "label": "C",
+                  "content": "train cars"
+                },
+                {
+                  "label": "D",
+                  "content": "platforms"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "groupCode": "QG-161-163",
+          "groupTitle": "E-mail: Datoric Systems expense reports",
+          "passageText": "[SOURCE PAGE 16]                    All Staff   To:         I                                                                                I  From:          Selene Hong               I                                                                 I   Date:         March 25               I                                                                 I   Subject:       Reminder              I                                                                 I   Dear Staff,    I would like to draw your attention to several new procedures regarding business trip   expense reports. -   [1] -. Beginning next month, business-related dining receipts must be   accompanied by a listing of each dinner attendee. Also, please make sure that you do not   include receipts for any non-work-related items or activities with your report. -   [2] -   .    Finally, note that our accounting software will now automatically calculate for you the    total to be reimbursed. You need only to upload images of your receipts for the software to   do this.    I will be happy to respond to your questions. -   [3] -. However, I will be flying to Tokyo    this Friday to meet clients, so I will not be checking e-mail that day. -   [4) -   .   Sincerely,   Selene Hong   Assistant Director, Human Resources Department   Datoric Systems",
+          "questions": [
+            {
+              "questionNumber": 161,
+              "content": "What is indicated about Datoric Systems?",
+              "correctOption": "B",
+              "options": [
+                {
+                  "label": "A",
+                  "content": "It has increased the spending amount allowed for business dinners."
+                },
+                {
+                  "label": "B",
+                  "content": "It will adopt new procedures for filing travel expense reports."
+                },
+                {
+                  "label": "C",
+                  "content": "It has office locations in several countries."
+                },
+                {
+                  "label": "D",
+                  "content": "It plans to hold a company celebration."
+                }
+              ]
+            },
+            {
+              "questionNumber": 162,
+              "content": "Why is the accounting software mentioned?",
+              "correctOption": "A",
+              "options": [
+                {
+                  "label": "A",
+                  "content": "To highlight a special capability it has"
+                },
+                {
+                  "label": "B",
+                  "content": "To encourage staff to install it"
+                },
+                {
+                  "label": "C",
+                  "content": "To help employees log on to it"
+                },
+                {
+                  "label": "D",
+                  "content": "To point out that it will be replaced 218"
+                }
+              ]
+            },
+            {
+              "questionNumber": 163,
+              "content": "In which of the positions marked [1], [2], [3], and [4] does the following sentence best belong? \"Following these steps will enable us to quickly issue your reimbursement payment.\"",
+              "correctOption": "B",
+              "options": [
+                {
+                  "label": "A",
+                  "content": "[1]"
+                },
+                {
+                  "label": "B",
+                  "content": "[2]"
+                },
+                {
+                  "label": "C",
+                  "content": "[3]"
+                },
+                {
+                  "label": "D",
+                  "content": "[4]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "groupCode": "QG-164-167",
+          "groupTitle": "Article: E-Commerce Opening Doors for African Fashion Industry",
+          "passageText": "[SOURCE PAGE 17]     E-Commerce Opening Doors for    Abbi  Sportscore,  Africa's  fastest-growing          African Fashion Industry          athletic footwear company. \"We have always                                               had terrific design and production capacity     ADDIS ABABA (6 May)-  Africa's role as a                                                   here on the continent, but it was hard getting      consumer of fashion has been on the rise in                                                                                         it out into the world. Now we are generating        recent years. This trend is largely due to the                                           more sales online than we are in our stores.\"      emergence of e-commerce, which provides                                                                     -   [2] -   .       Africans  the  opportunity  to buy  clothing                                              Even as Ms. Absher has transformed her      from retailers with no physical presence on                                         company into an international powerhouse,       the continent.                                                  she continues to highlight the advantages of          Perhaps more importantly, though, the                                                 manufacturing its products in her home city      growth of e-commerce  is enabling small-                                                  of Nazret.  -   [3] -   . Africa's strong textile       scale  African  designers  to  also  become                                                      sector  and  innovative  designs  combine      producers of fashion, as they showcase their                                                           tradition and wearability, and this formula is       collections to consumers worldwide. African                                                  allowing companies  like hers  to  set  their      shopping Web sites like Jumjum and Longa                                                        sights beyond the continent.       are making the work of African designers                                              \"As more  cities  in Ethiopia-and  all       available for purchase not just throughout                                                 over Africa-  improve  their manufacturing       the continent, but also as far away as London                                                        capacity,  it will become easier to reach the      and New York. -   [1] -.                                                             rest  of  the  world,\"  says  Ms.  Absher.          \"African designers are  finally gaining                                                                     -   [4] -.        visibility,\" says Mazaa Absher, founder of",
+          "questions": [
+            {
+              "questionNumber": 164,
+              "content": "What is the main topic of the article?",
+              "correctOption": "C",
+              "options": [
+                {
+                  "label": "A",
+                  "content": "New trends in marketing athletic footwear"
+                },
+                {
+                  "label": "B",
+                  "content": "Increased competition in the African clothing market"
+                },
+                {
+                  "label": "C",
+                  "content": "Recent growth in the African fashion industry"
+                },
+                {
+                  "label": "D",
+                  "content": "The largest clothing companies in Africa"
+                }
+              ]
+            },
+            {
+              "questionNumber": 165,
+              "content": "What is indicated about Abbi Sportscore?",
+              "correctOption": "B",
+              "options": [
+                {
+                  "label": "A",
+                  "content": "It sells its products only online."
+                },
+                {
+                  "label": "B",
+                  "content": "It manufactures its shoes in Nazret."
+                },
+                {
+                  "label": "C",
+                  "content": "It will be moving its main offices soon."
+                },
+                {
+                  "label": "D",
+                  "content": "It was the first shoe company in Ethiopia."
+                }
+              ]
+            },
+            {
+              "questionNumber": 166,
+              "content": "What is suggested about the Jumjum and Longa Web sites?",
+              "correctOption": "B",
+              "options": [
+                {
+                  "label": "A",
+                  "content": "They sell only handcrafted goods."
+                },
+                {
+                  "label": "B",
+                  "content": "They receive orders from around the world."
+                },
+                {
+                  "label": "C",
+                  "content": "They offer free shipping to London and New York."
+                },
+                {
+                  "label": "D",
+                  "content": "They are planning to open retail stores."
+                }
+              ]
+            },
+            {
+              "questionNumber": 167,
+              "content": "In which of the positions marked [1], [2], [3], and (4] does the following sentence best belong? \"The city boasts four garment factories, with a fifth scheduled to be built this year in nearby Wonji.\"",
+              "correctOption": "C",
+              "options": [
+                {
+                  "label": "A",
+                  "content": "[1]"
+                },
+                {
+                  "label": "B",
+                  "content": "[2]"
+                },
+                {
+                  "label": "C",
+                  "content": "[3]"
+                },
+                {
+                  "label": "D",
+                  "content": "[4]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "groupCode": "QG-168-171",
+          "groupTitle": "Text-message chain: cover design",
+          "passageText": "[SOURCE PAGE 18]        Gary Park (10:23 A.M.)              I e-mailed you the cover design for our September issue a few minutes ago.         Did you receive it?             Jill Riley (10:26 A.M.)           Yes, but is this the latest version? I thought we agreed that the background           color should be lighter so the article titles are more visible.        Gary Park (10:28 A.M.)              I forgot-sorry about that! I'm just now sending the file with the most recent            version.             Jill Riley (10:30 A.M.)         Opening it now ... That's more like it. I'll forward it to Graphics and request           a sample printout.             Jill Riley (10:35 A.M.)        Good morning, Mr. Ojeda. Our new cover design is ready. When do you           think you'll have a chance to work on it?        Frank Ojeda (10:38 A.M.)         Send it to me now. I'll have a print copy ready for your approval after lunch.                0",
+          "questions": [
+            {
+              "questionNumber": 168,
+              "content": "Where do the people most likely work?",
+              "correctOption": "D",
+              "options": [
+                {
+                  "label": "A",
+                  "content": "At a bookstore"
+                },
+                {
+                  "label": "B",
+                  "content": "At a public library"
+                },
+                {
+                  "label": "C",
+                  "content": "At a television studio"
+                },
+                {
+                  "label": "D",
+                  "content": "At a magazine publisher"
+                }
+              ]
+            },
+            {
+              "questionNumber": 169,
+              "content": "Why does Mr. Park apologize?",
+              "correctOption": "A",
+              "options": [
+                {
+                  "label": "A",
+                  "content": "He sent the wrong file."
+                },
+                {
+                  "label": "B",
+                  "content": "He used an old e-mail address."
+                },
+                {
+                  "label": "C",
+                  "content": "He missed a project deadline."
+                },
+                {
+                  "label": "D",
+                  "content": "He lost an important document."
+                }
+              ]
+            },
+            {
+              "questionNumber": 170,
+              "content": "At 10:30 A.M., what does Ms. Riley most likely mean when she writes, \"That's more like it\"?",
+              "correctOption": "B",
+              "options": [
+                {
+                  "label": "A",
+                  "content": "The budget is more reasonable."
+                },
+                {
+                  "label": "B",
+                  "content": "The color looks better."
+                },
+                {
+                  "label": "C",
+                  "content": "The story is more interesting."
+                },
+                {
+                  "label": "D",
+                  "content": "The schedule is more realistic."
+                }
+              ]
+            },
+            {
+              "questionNumber": 171,
+              "content": "What will Mr. Ojeda do by the afternoon?",
+              "correctOption": "B",
+              "options": [
+                {
+                  "label": "A",
+                  "content": "Approve a marketing plan"
+                },
+                {
+                  "label": "B",
+                  "content": "Produce a sample"
+                },
+                {
+                  "label": "C",
+                  "content": "Repair a printer"
+                },
+                {
+                  "label": "D",
+                  "content": "Make copies of an agreement"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "groupCode": "QG-172-175",
+          "groupTitle": "Letter: Small Business Challenge finalist",
+          "passageText": "[SOURCE PAGE 19]   8 February   Ms. Mala Chelvi   60 J alan Tun Razak   54200 Kuala Lumpur   Dear Ms. Chelvi,  We are delighted to inform you that you have been nominated as a finalist for the   Small Business Challenge competition this year. Now in its fifth year, this   competition is designed to highlight innovative products and services launched by   young entrepreneurs. The Web application that you developed, which provides a   means of matching charitable organizations with volunteers, earned one of the top    scores from our panel of judges.   In the next round of the challenge, you will participate in a live presentation about   your product before a panel of expert judges. The three people with the best   presentations will receive one-time grants of MYR 10,000 each to invest in their    businesses.   Please go to sbc.org/competition and submit an outline of your presentation, a brief   video that clearly illustrates the use of your application, and a passport-sized   photograph of yourself. You will also need to sign a consent form allowing us to use   your name and photo, if needed, in promotional materials on our Web site. The   deadline for submission of these materials is 10 March.   Best regards,  FclMv PCf.A!lfY   Felix Pang   Chairperson, Small Business Challenge Committee",
+          "questions": [
+            {
+              "questionNumber": 172,
+              "content": "What is the purpose of the letter?",
+              "correctOption": "B",
+              "options": [
+                {
+                  "label": "A",
+                  "content": "To seek volunteers for an event"
+                },
+                {
+                  "label": "B",
+                  "content": "To notify a contest finalist"
+                },
+                {
+                  "label": "C",
+                  "content": "To sell business consultation services"
+                },
+                {
+                  "label": "D",
+                  "content": "To offer a small-business loan"
+                }
+              ]
+            },
+            {
+              "questionNumber": 173,
+              "content": "What does Ms. Chelvi most likely specialize in?",
+              "correctOption": "B",
+              "options": [
+                {
+                  "label": "A",
+                  "content": "Law"
+                },
+                {
+                  "label": "B",
+                  "content": "Technology"
+                },
+                {
+                  "label": "C",
+                  "content": "Finance"
+                },
+                {
+                  "label": "D",
+                  "content": "Marketing"
+                }
+              ]
+            },
+            {
+              "questionNumber": 174,
+              "content": "The word \"illustrates\" in paragraph 3, line 2, is closest in meaning to",
+              "correctOption": "A",
+              "options": [
+                {
+                  "label": "A",
+                  "content": "represents"
+                },
+                {
+                  "label": "B",
+                  "content": "translates"
+                },
+                {
+                  "label": "C",
+                  "content": "lightens"
+                },
+                {
+                  "label": "D",
+                  "content": "decorates"
+                }
+              ]
+            },
+            {
+              "questionNumber": 175,
+              "content": "What is Ms. Chelvi asked to do by March 10?",
+              "correctOption": "C",
+              "options": [
+                {
+                  "label": "A",
+                  "content": "Update a Web page design"
+                },
+                {
+                  "label": "B",
+                  "content": "Give a presentation"
+                },
+                {
+                  "label": "C",
+                  "content": "Sign a consent form"
+                },
+                {
+                  "label": "D",
+                  "content": "Pay a fee"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "groupCode": "QG-176-180",
+          "groupTitle": "E-mail and receipt: McMann Home Furnishings",
+          "passageText": "[SOURCE PAGE 20]                  riedewald@ parasur.net.sr   To:         I                       client services@ mhf.ca   From:       I                     April 2, 12:21 P.M.   Date:       I   Subject:       Your feedback              I   Dear Mr. Riedewald,                        w   Thank you for filling out the McMann Home Furnishings (MHF) survey. To show our    appreciation, we have added reward points to your account. They can be applied to the   purchase of products offered online as well as those offered in our retail stores. Clearance    items and those priced $15.00 and above may not be purchased using credits.   To use your reward points for an online purchase, select the items you would like to   purchase and then check out. At the bottom of the page, select \"Apply credits.\" The value   of the applied credits will appear on your order receipt as a special discount.    If you would prefer to use reward points at one of our retail locations, you can do so by   logging in to your account on our Web site. Go to the My Rewards page, and then select    \"Print as a coupon.\" The coupon will have a bar code that can be scanned at the store's   checkout counter.   Sincerely,   Client Services, McMann Home Furnishings                                                   iYl                            Online Order #1157                      McMann Home Furnishings Store                 M   h 19 11 31 A M",
+          "questions": [
+            {
+              "questionNumber": 176,
+              "content": "According to the e-mail, how did Mr. Riedewald receive reward points?",
+              "correctOption": "B",
+              "options": [
+                {
+                  "label": "A",
+                  "content": "He won an online contest."
+                },
+                {
+                  "label": "B",
+                  "content": "He participated in a customer survey."
+                },
+                {
+                  "label": "C",
+                  "content": "He spent a certain amount of money."
+                },
+                {
+                  "label": "D",
+                  "content": "He returned an item."
+                }
+              ]
+            },
+            {
+              "questionNumber": 177,
+              "content": "In the e-mail, the phrase \"filling out\" in paragraph 1, line 1, is closest in meaning to",
+              "correctOption": "C",
+              "options": [
+                {
+                  "label": "A",
+                  "content": "emptying"
+                },
+                {
+                  "label": "B",
+                  "content": "supplying"
+                },
+                {
+                  "label": "C",
+                  "content": "completing"
+                },
+                {
+                  "label": "D",
+                  "content": "expanding"
+                }
+              ]
+            },
+            {
+              "questionNumber": 178,
+              "content": "How can customers apply their reward points in an MHF retail store?",
+              "correctOption": "C",
+              "options": [
+                {
+                  "label": "A",
+                  "content": "By entering their account number"
+                },
+                {
+                  "label": "B",
+                  "content": "By entering their phone number"
+                },
+                {
+                  "label": "C",
+                  "content": "By scanning a coupon's bar code"
+                },
+                {
+                  "label": "D",
+                  "content": "By going to the Client Services Department"
+                }
+              ]
+            },
+            {
+              "questionNumber": 179,
+              "content": "According to the receipt, what is true about Mr. Riedewald?",
+              "correctOption": "D",
+              "options": [
+                {
+                  "label": "A",
+                  "content": "He paid for delivery of the items."
+                },
+                {
+                  "label": "B",
+                  "content": "He purchased the items in the evening."
+                },
+                {
+                  "label": "C",
+                  "content": "He paid over $70 for all items combined."
+                },
+                {
+                  "label": "D",
+                  "content": "He purchased only one item at regular price."
+                }
+              ]
+            },
+            {
+              "questionNumber": 180,
+              "content": "What item did Mr. Riedewald most likely purchase using reward credits?",
+              "correctOption": "A",
+              "options": [
+                {
+                  "label": "A",
+                  "content": "The picture frame"
+                },
+                {
+                  "label": "B",
+                  "content": "The ceramic mug"
+                },
+                {
+                  "label": "C",
+                  "content": "The floral blanket"
+                },
+                {
+                  "label": "D",
+                  "content": "The photo album"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "groupCode": "QG-181-185",
+          "groupTitle": "Letter and order: Two Swan Press",
+          "passageText": "[SOURCE PAGE 22]                                Two Swan Press                               72 Holywell Road, Edinburgh EH8 8PJ           4 December           Mr. Albert Morello            17 Peyton Avenue           Kingston 5            Jamaica, W.I.           Dear Mr. Morello:           Enclosed please find your royalty payment for Understanding Our Oceans. You should           have recently received an e-mail that listed the sales figures and the royalties due to           you for the print and electronic versions of your book.        We are proud to announce that Two Swan Press was given the Publisher of the Year          Award by the UK Book Industry in October. We thank the authors who have worked           with us since our founding five years ago.           All Two Swan Press authors are entitled to an author discount of 40 percent off any                title on our Web site. Simply use the code AUX1417 for your discount.                 If you have any questions at all, please do not hesitate to contact me.          Kind regards,           Set¥cilrv           Sarah Wicklin             Encl.",
+          "questions": [
+            {
+              "questionNumber": 181,
+              "content": "What is a purpose of the letter?",
+              "correctOption": "C",
+              "options": [
+                {
+                  "label": "A",
+                  "content": "To ask Mr. Morello to write a book"
+                },
+                {
+                  "label": "B",
+                  "content": "To explain an enclosed contract"
+                },
+                {
+                  "label": "C",
+                  "content": "To notify Mr. Morello of a payment"
+                },
+                {
+                  "label": "D",
+                  "content": "To describe an updated personnel policy"
+                }
+              ]
+            },
+            {
+              "questionNumber": 182,
+              "content": "What was sent in a previous message to Mr. Morello?",
+              "correctOption": "B",
+              "options": [
+                {
+                  "label": "A",
+                  "content": "Incorrect contact information"
+                },
+                {
+                  "label": "B",
+                  "content": "Detailed sales numbers"
+                },
+                {
+                  "label": "C",
+                  "content": "A list of suggested changes"
+                },
+                {
+                  "label": "D",
+                  "content": "A link to an electronic book"
+                }
+              ]
+            },
+            {
+              "questionNumber": 183,
+              "content": "What does Ms. Wicklin mention about Two Swan Press?",
+              "correctOption": "C",
+              "options": [
+                {
+                  "label": "A",
+                  "content": "It moved to a new location in October."
+                },
+                {
+                  "label": "B",
+                  "content": "It has launched a new program for its fifth anniversary."
+                },
+                {
+                  "label": "C",
+                  "content": "It has won an industry award."
+                },
+                {
+                  "label": "D",
+                  "content": "It has decided to focus on scientific publications."
+                }
+              ]
+            },
+            {
+              "questionNumber": 184,
+              "content": "What is suggested about Mr. Booth?",
+              "correctOption": "A",
+              "options": [
+                {
+                  "label": "A",
+                  "content": "He is a Two Swan Press author."
+                },
+                {
+                  "label": "B",
+                  "content": "He wrote Business in Our Lives."
+                },
+                {
+                  "label": "C",
+                  "content": "He is an acquaintance of Mr. Morello."
+                },
+                {
+                  "label": "D",
+                  "content": "He has purchased items from Two Swan Press before."
+                }
+              ]
+            },
+            {
+              "questionNumber": 185,
+              "content": "What is indicated about the order?",
+              "correctOption": "C",
+              "options": [
+                {
+                  "label": "A",
+                  "content": "It has been delayed."
+                },
+                {
+                  "label": "B",
+                  "content": "It has not yet been paid."
+                },
+                {
+                  "label": "C",
+                  "content": "It contains multiple books."
+                },
+                {
+                  "label": "D",
+                  "content": "It includes free shipping."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "groupCode": "QG-186-190",
+          "groupTitle": "E-mail, application, and newsletter: Mentoring Program",
+          "passageText": "[SOURCE PAGE 24]   To:                   II All Staff                                                       I   From:        II Personnel Department                                            I   Date:               ll June 20   Subject:       Mentoring Program                   II                                                               I  Attachment: II @AJ2J2lication                                                   I   Employees who have been with Broadside Electronics for less than eighteen months are    invited to apply to participate in a new mentoring program that will match a maximum of    ten junior employees with long-term company veterans. The goal is that junior employees    will sharpen corporate skills, better understand company culture, and develop a more   focused career path. Mentees will be assigned to a mentor based strictly on their work   assignment and professional interests. The pairs will meet at mutually convenient times   throughout the year, from three to five hours per month.   To be considered for participation in this initiative, complete the attached application and    return to Mentoring Program Director Tim Wrigley at t.wrigley@broadsideelec.com by   July  I. Mr. Wrigley will send notification of his selections by July 15.             MENTO RING PROGRAM APPLICATION    Name: Cora Drummond          Extension: 144                                                                                            .::....:..-=----     Division: Sales         =-===-------     Professional areas of interest:       I am most interested in learning about our markets abroad and developing   my sales-presentation abilities for these international markets. I am also[SOURCE PAGE 25]The Broadside Company Newsletter            Mentoring Program Sees Results            Long-time employee and Vice President of Sales Alena Russo was              intrigued when a Personnel Department director approached her             about mentoring a less experienced employee under a program that            began last year. She is glad to have accepted the assignment. \"After            working with Ms. Drummond, I am more satisfied with my own               duties, because I know I have helped a professional who is just              getting started. I only wish that I had had someone looking out for          me in my early years,\" remarked Ms. Russo.           Ms. Drummond explains that she \"needed pointers on how to make               better sales pitches.\" She reports that her sales are up by 20 percent             now. She better understands the opportunities Broadside Electronics             has to offer and what is required to become a manager. \"Thanks to            Ms. Russo, I have been able to define my career goals, and I am a             happier person when I arrive to work every day.\"          New mentorship pairs are now being formed. Interested parties             should contact Tim Wrigley in the Personnel Department.186. What does the e-mail indicate about the        189. What is most likely true about Ms. Russo?     mentoring program?                                                                (A) She is planning to retire soon.      (A)  It is popular industry-wide.                         (B) She has international sales experience.      (B) The number of participants is limited.             (C) She has mentored many junior      (C)  It is designed for staff in the sales                    employees.            division.                                         (D) She recently joined the hiring team.      (D) Participants must attend an orientation",
+          "questions": [
+            {
+              "questionNumber": 186,
+              "content": "What does the e-mail indicate about the mentoring program?",
+              "correctOption": "B",
+              "options": [
+                {
+                  "label": "A",
+                  "content": "It is popular industry-wide."
+                },
+                {
+                  "label": "B",
+                  "content": "The number of participants is limited."
+                },
+                {
+                  "label": "C",
+                  "content": "It is designed for staff in the sales division."
+                },
+                {
+                  "label": "D",
+                  "content": "Participants must attend an orientation meeting."
+                }
+              ]
+            },
+            {
+              "questionNumber": 187,
+              "content": "How will the junior employees most likely be selected?",
+              "correctOption": "C",
+              "options": [
+                {
+                  "label": "A",
+                  "content": "They will be chosen from a management-training group."
+                },
+                {
+                  "label": "B",
+                  "content": "They will undergo competitive interviews."
+                },
+                {
+                  "label": "C",
+                  "content": "They will be evaluated by Mr. Wrigley."
+                },
+                {
+                  "label": "D",
+                  "content": "They will be recommended by a local business school."
+                }
+              ]
+            },
+            {
+              "questionNumber": 188,
+              "content": "What is suggested about Ms. Drummond?",
+              "correctOption": "A",
+              "options": [
+                {
+                  "label": "A",
+                  "content": "She has worked at Broadside Electronics for less than eighteen months."
+                },
+                {
+                  "label": "B",
+                  "content": "She has just transferred from another department."
+                },
+                {
+                  "label": "C",
+                  "content": "She has received a positive annual review."
+                },
+                {
+                  "label": "D",
+                  "content": "She has made many successful presentations abroad."
+                }
+              ]
+            },
+            {
+              "questionNumber": 189,
+              "content": "What is most likely true about Ms. Russo?",
+              "correctOption": "B",
+              "options": [
+                {
+                  "label": "A",
+                  "content": "She is planning to retire soon."
+                },
+                {
+                  "label": "B",
+                  "content": "She has international sales experience."
+                },
+                {
+                  "label": "C",
+                  "content": "She has mentored many junior employees."
+                },
+                {
+                  "label": "D",
+                  "content": "She recently joined the hiring team."
+                }
+              ]
+            },
+            {
+              "questionNumber": 190,
+              "content": "What benefit from the mentoring program have both Ms. Drummond and Ms. Russo enjoyed?",
+              "correctOption": "A",
+              "options": [
+                {
+                  "label": "A",
+                  "content": "Increased job satisfaction"
+                },
+                {
+                  "label": "B",
+                  "content": "Quick promotions"
+                },
+                {
+                  "label": "C",
+                  "content": "Paycheck bonuses"
+                },
+                {
+                  "label": "D",
+                  "content": "Clearer career goals"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "groupCode": "QG-191-195",
+          "groupTitle": "Web site, online form, and e-mail: Runkle Fencing",
+          "passageText": "[SOURCE PAGE 26]       [ https://www.runklefencing.co.uk                                              18                      Temporary                                                   Residential       Home                                                            Commercial        c--\"'                 I                                I                                                I    Temporary Fencing Service    Need a temporary fence installed at your residence, workplace, or special event? Our     expert team will deliver and install chain-link fencing on the booked date and time.   When the fence is no longer needed, we will take it down and haul it away. Like our      residential and commercial fencing, our temporary fences are obtained from the best     manufacturers using the finest materials. Our fences have a tidy, sturdy, professional     appearance that local residents and businesses appreciate. We also see to all legally     required inspections and certifications.    Ready for a price quote? Contact us today via our Online Quote service. Be sure to     provide the following information so we can provide an accurate estimate:      1. The preferred height of your fence (Be aware that local regulations commonly       allow a maximum height of three metres.)      2. The perimeter of the area you need to enclose      3. The number of gated entrances needed      4. The number of days the fence needs to be up                                                                                                                                                                                                                                                                                  f--...                                                                                                                          r--                                                                                                                                                                 \"'  Name:            Marg uerite Carhart               Phone: (0117) 555-9102   Installation Address: 438 Stretford Way/ Bristol BS5 7TB   E-mail:             mcarhart@stockporteventcentre.co.uk   Today's date:       8 August[SOURCE PAGE 27]mcarhart@stockporteventcentre.co.uk    To:            II                  hmontalbo@ runklefencing.co. uk    From:        II                  9 August    Date:         II    Subject:       Quote Number 080817                    II   Attachment: II    lffi fenceguote mcarhart    Dear Ms. Carhart,    Thank you for your enquiry. Please see the attached estimate for the work you requested.    Note that the price of delivery is included at no further charge unless a rush order-one     providing less than three weeks' notice-is required. This is a rough estimate based on the     information you provided. If you ring us at (0117) 555-2938 and provide us with a missing      detail, I can give you a more accurate quote.    You might also consider including a plastic curtain with your order. This would be    wrapped around and fastened to the fence, hiding the construction site from the view of     pedestrians. If this interests you, we can include  it in the revised quote.    Best Regards,    Howard Montalbo191. What does the Web site indicate about         194. What is implied about Ms. Carhart's fence     fences taller than three meters?                       project?      (A) They are made of plastic.                          (A) There will be a charge for delivery.      (B) They are usually prohibited by law.                (B) The project involves work at several job      (C) They require special transportation.                         sites.      (D) They must be ordered directly from the            (C) Extra workers must be hired to install           manufacturer.                                        the fence.                                                           (D) Inspectors must first approve the",
+          "questions": [
+            {
+              "questionNumber": 191,
+              "content": "What does the Web site indicate about fences taller than three meters?",
+              "correctOption": "B",
+              "options": [
+                {
+                  "label": "A",
+                  "content": "They are made of plastic."
+                },
+                {
+                  "label": "B",
+                  "content": "They are usually prohibited by law."
+                },
+                {
+                  "label": "C",
+                  "content": "They require special transportation."
+                },
+                {
+                  "label": "D",
+                  "content": "They must be ordered directly from the manufacturer."
+                }
+              ]
+            },
+            {
+              "questionNumber": 192,
+              "content": "According to the form, why does Ms. Carhart need a temporary fence installed?",
+              "correctOption": "D",
+              "options": [
+                {
+                  "label": "A",
+                  "content": "To mark a property line"
+                },
+                {
+                  "label": "B",
+                  "content": "To draw attention to an exhibit"
+                },
+                {
+                  "label": "C",
+                  "content": "To control a crowd at a special event"
+                },
+                {
+                  "label": "D",
+                  "content": "To limit public access to a work site"
+                }
+              ]
+            },
+            {
+              "questionNumber": 193,
+              "content": "What information does Ms. Carhart fail to give about the fence she needs?",
+              "correctOption": "B",
+              "options": [
+                {
+                  "label": "A",
+                  "content": "The height of the fence to be erected"
+                },
+                {
+                  "label": "B",
+                  "content": "The dates when the fence is needed"
+                },
+                {
+                  "label": "C",
+                  "content": "The perimeter of the area to be enclosed"
+                },
+                {
+                  "label": "D",
+                  "content": "The number of entrances needed"
+                }
+              ]
+            },
+            {
+              "questionNumber": 194,
+              "content": "What is implied about Ms. Carhart's fence project?",
+              "correctOption": "D",
+              "options": [
+                {
+                  "label": "A",
+                  "content": "There will be a charge for delivery."
+                },
+                {
+                  "label": "B",
+                  "content": "The project involves work at several job sites."
+                },
+                {
+                  "label": "C",
+                  "content": "Extra workers must be hired to install the fence."
+                },
+                {
+                  "label": "D",
+                  "content": "Inspectors must first approve the project."
+                }
+              ]
+            },
+            {
+              "questionNumber": 195,
+              "content": "Why does Mr. Montalbo recommend adding a curtain?",
+              "correctOption": "C",
+              "options": [
+                {
+                  "label": "A",
+                  "content": "It would act as a noise barrier."
+                },
+                {
+                  "label": "B",
+                  "content": "It would help keep in dust."
+                },
+                {
+                  "label": "C",
+                  "content": "It would serve as a visual screen."
+                },
+                {
+                  "label": "D",
+                  "content": "It would improve safety conditions."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "groupCode": "QG-196-200",
+          "groupTitle": "E-mail, flyer, and schedule: Company outing",
+          "passageText": "[SOURCE PAGE 28]                   Daniel Rodrigues Pereira   To:         I   From:           Livia Romero               I   Subject:      Company outing               I                  August 5   Date:       I   Hello Daniel,     I hope you are settling in well. I'm sure you have had a busy few weeks. Around this time   of year, the office manager typically begins arranging our annual company outing. I think   we mentioned this during your interview in June. Previously, we have done th ings like   going to a concert and taking a local river cruise. The outing  is always great for morale,   and everyone looks forward to  it.   This year, I think  it would be a good idea to get tickets to a sporting event.  I know that   many staff members are fans of the San Jose Starlings baseball team. It should be an   evening game when the team is playi ng at home. We have a budget of $600.00 this year.   Looking at the ticket prices,  it seems that wi ll be just enough to get a ticket for every staff   member.   I'm sure Elise can assist you with this; she has often helped organize the outings. Let me   know if you have any questions.   Best,   Livia Romero   Director of Administration, Loftgren Consulting                               tJ[SOURCE PAGE 29]San Jose Starlings@                    August Schedule    - -         -         Date      Day      Time     Opposing Team    Home or Away        August 13   Sunday     1:05 P.M.     Aspen Monarchs       Home        August 15   Tuesday     7:05P.M.     Aspen Monarchs       Home        August 19   Saturday    1:05 P.M.   Philipsburg Pinstripes      Away       August 22   Tuesday     7:05P.M.   Philipsburg Pinstripes      Away        Purchase tickets online at www.sanjosestarlings.com/tickets.196. Why did Ms. Romero send the e-mail to        199. How many employees does Loftgren      Mr. Rodrigues Pereira?                              Consulting most likely have?      (A) To tell him about an upcoming budget             (A) 10            cut                                                (B) 30      (B) To invite him to a concert                         (C) 50      (C) To introduce him to his new assistant             (D) 70      (D) To ask him to arrange an event                                                   200. On what date could Loftgren Consulting197. What does the e-mail imply about                 employees attend a game?      Mr. Rodrigues Pereira?                                                                (A) August 13      (A) He recently attended a San Jose                  (B) August 15            Starlings game.                                  (C) August 19      (B) He will be leaving in a few weeks to go            (D) August 22          on vacation.",
+          "questions": [
+            {
+              "questionNumber": 196,
+              "content": "Why did Ms. Romero send the e-mail to Mr. Rodrigues Pereira?",
+              "correctOption": "D",
+              "options": [
+                {
+                  "label": "A",
+                  "content": "To tell him about an upcoming budget cut"
+                },
+                {
+                  "label": "B",
+                  "content": "To invite him to a concert"
+                },
+                {
+                  "label": "C",
+                  "content": "To introduce him to his new assistant"
+                },
+                {
+                  "label": "D",
+                  "content": "To ask him to arrange an event"
+                }
+              ]
+            },
+            {
+              "questionNumber": 197,
+              "content": "What does the e-mail imply about Mr. Rodrigues Pereira?",
+              "correctOption": "D",
+              "options": [
+                {
+                  "label": "A",
+                  "content": "He recently attended a San Jose Starlings game."
+                },
+                {
+                  "label": "B",
+                  "content": "He will be leaving in a few weeks to go on vacation."
+                },
+                {
+                  "label": "C",
+                  "content": "He is a professional party planner."
+                },
+                {
+                  "label": "D",
+                  "content": "He recently began working for Loftgren Consulting."
+                }
+              ]
+            },
+            {
+              "questionNumber": 198,
+              "content": "According to the flyer, what is a benefit of buying tickets as a group?",
+              "correctOption": "A",
+              "options": [
+                {
+                  "label": "A",
+                  "content": "Reduced ticket prices"
+                },
+                {
+                  "label": "B",
+                  "content": "Free food"
+                },
+                {
+                  "label": "C",
+                  "content": "Front-row seating"
+                },
+                {
+                  "label": "D",
+                  "content": "T-shirts with the team's logo Stop! This is the end of the test. If you fin back to Parts 5, 6, and"
+                }
+              ]
+            },
+            {
+              "questionNumber": 199,
+              "content": "How many employees does Loftgren Consulting most likely have?",
+              "correctOption": "D",
+              "options": [
+                {
+                  "label": "A",
+                  "content": "10"
+                },
+                {
+                  "label": "B",
+                  "content": "30"
+                },
+                {
+                  "label": "C",
+                  "content": "50"
+                },
+                {
+                  "label": "D",
+                  "content": "70"
+                }
+              ]
+            },
+            {
+              "questionNumber": 200,
+              "content": "On what date could Loftgren Consulting employees attend a game?",
+              "correctOption": "B",
+              "options": [
+                {
+                  "label": "A",
+                  "content": "August 13"
+                },
+                {
+                  "label": "B",
+                  "content": "August 15"
+                },
+                {
+                  "label": "C",
+                  "content": "August 19"
+                },
+                {
+                  "label": "D",
+                  "content": "August 22"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

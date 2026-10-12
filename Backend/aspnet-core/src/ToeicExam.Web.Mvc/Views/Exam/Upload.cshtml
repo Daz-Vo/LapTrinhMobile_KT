@@ -1,0 +1,241 @@
+@{
+    ViewBag.Title = "Tải lên Đề thi TOEIC (.docx)";
+    ViewBag.CurrentPageName = "UploadExam";
+    var errors = ViewBag.Errors as List<string>;
+    var warnings = ViewBag.Warnings as List<string>;
+}
+
+<div class="content-header">
+    <div class="container-fluid">
+        <div class="row mb-2">
+            <div class="col-sm-6">
+                <h1 class="m-0 text-dark font-weight-bold">
+                    <i class="fas fa-cloud-upload-alt text-primary mr-2"></i>Tải lên Đề thi TOEIC (.docx)
+                </h1>
+            </div>
+            <div class="col-sm-6 text-right">
+                <a asp-action="Index" class="btn btn-outline-secondary">
+                    <i class="fas fa-arrow-left mr-1"></i> Quay lại danh sách
+                </a>
+            </div>
+        </div>
+    </div>
+</div>
+
+<section class="content">
+    <div class="container-fluid">
+        @if (!string.IsNullOrEmpty(ViewBag.ErrorMessage))
+        {
+            <div class="alert alert-danger alert-dismissible fade show shadow-sm" role="alert">
+                <h5 class="alert-heading font-weight-bold"><i class="fas fa-times-circle mr-2"></i>Lỗi tải lên / Phân tích cấu trúc</h5>
+                <p>@ViewBag.ErrorMessage</p>
+                @if (errors != null && errors.Any())
+                {
+                    <hr />
+                    <ul class="mb-0 pl-3">
+                        @foreach (var err in errors.Take(20))
+                        {
+                            <li>@err</li>
+                        }
+                        @if (errors.Count > 20)
+                        {
+                            <li class="font-italic text-muted">...và còn @(errors.Count - 20) lỗi khác.</li>
+                        }
+                    </ul>
+                }
+                <button type="button" class="close" data-dismiss="alert" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+        }
+
+        @if (warnings != null && warnings.Any())
+        {
+            <div class="alert alert-warning alert-dismissible fade show shadow-sm" role="alert">
+                <h6 class="alert-heading font-weight-bold"><i class="fas fa-exclamation-triangle mr-2"></i>Cảnh báo định dạng (@warnings.Count cảnh báo):</h6>
+                <ul class="mb-0 pl-3 small">
+                    @foreach (var w in warnings.Take(10))
+                    {
+                        <li>@w</li>
+                    }
+                    @if (warnings.Count > 10)
+                    {
+                        <li class="font-italic text-muted">...và còn @(warnings.Count - 10) cảnh báo khác.</li>
+                    }
+                </ul>
+                <button type="button" class="close" data-dismiss="alert" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+        }
+
+        <div class="row">
+            <div class="col-lg-8">
+                <div class="card card-primary card-outline shadow-sm">
+                    <div class="card-header">
+                        <h3 class="card-title font-weight-bold">
+                            <i class="fas fa-file-word mr-1 text-primary"></i> Tải lên file Word đề thi
+                        </h3>
+                    </div>
+                    <form asp-action="Upload" method="post" enctype="multipart/form-data" id="uploadForm">
+                        @Html.AntiForgeryToken()
+                        <div class="card-body">
+                            <div class="form-group">
+                                <label for="file" class="font-weight-bold">Chọn file Microsoft Word (.docx) <span class="text-danger">*</span></label>
+                                <div class="custom-file">
+                                    <input type="file" class="custom-file-input" id="fileInput" name="file" accept=".docx" required />
+                                    <label class="custom-file-label" for="fileInput" id="fileLabel">Chọn file .docx...</label>
+                                </div>
+                                <small class="form-text text-muted">File cần có các thẻ phân cấp TOEIC: &lt;PART&gt;, &lt;QUESTION_GROUP&gt;, &lt;QUESTION&gt;, &lt;STEM&gt;, &lt;OPTIONS&gt;, &lt;OPTION&gt;, &lt;ANSWER&gt;.</small>
+                            </div>
+
+                            <div class="form-group">
+                                <label for="title" class="font-weight-bold">Tên bài thi / Tiêu đề đề thi</label>
+                                <input type="text" class="form-control" id="title" name="title" placeholder="VD: TOEIC Reading Actual Test 07" />
+                                <small class="form-text text-muted">Nếu để trống, hệ thống sẽ sử dụng tên file làm tên đề thi.</small>
+                            </div>
+
+                            <div class="row">
+                                <div class="col-md-6">
+                                    <div class="form-group">
+                                        <label for="durationMinutes" class="font-weight-bold">Thời gian làm bài (phút)</label>
+                                        <input type="number" class="form-control" id="durationMinutes" name="durationMinutes" value="75" min="5" max="180" />
+                                    </div>
+                                </div>
+                                <div class="col-md-6 d-flex align-items-center">
+                                    <div class="custom-control custom-checkbox mt-3">
+                                        <input type="checkbox" class="custom-control-input" id="requireAnswers" name="requireAnswers" value="true" />
+                                        <label class="custom-control-label" for="requireAnswers">
+                                            <strong>Chế độ nghiêm ngặt</strong> (Bắt buộc 100% câu phải có thẻ &lt;ANSWER&gt;)
+                                        </label>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div id="validationResultCard" class="d-none mt-3">
+                                <!-- AJAX validation output -->
+                            </div>
+                        </div>
+                        <div class="card-footer bg-light d-flex justify-content-between">
+                            <button type="button" id="btnValidate" class="btn btn-outline-info">
+                                <i class="fas fa-check-double mr-1"></i> Kiểm tra cấu trúc file (Validate)
+                            </button>
+                            <button type="submit" class="btn btn-primary px-4">
+                                <i class="fas fa-save mr-1"></i> Nhập đề thi vào CSDL
+                            </button>
+                        </div>
+                    </form>
+                </div>
+            </div>
+
+            <div class="col-lg-4">
+                <div class="card card-info card-outline shadow-sm">
+                    <div class="card-header">
+                        <h3 class="card-title font-weight-bold">
+                            <i class="fas fa-info-circle mr-1 text-info"></i> Quy chuẩn Thẻ XML Đề thi
+                        </h3>
+                    </div>
+                    <div class="card-body small">
+                        <p class="text-muted">Đề thi TOEIC Reading gồm 100 câu chia thành 3 phần:</p>
+                        <ul class="pl-3 mb-3">
+                            <li><strong>Part 5 (101 - 130):</strong> Incomplete Sentences (30 câu đơn)</li>
+                            <li><strong>Part 6 (131 - 146):</strong> Text Completion (4 đoạn văn, 16 câu)</li>
+                            <li><strong>Part 7 (147 - 200):</strong> Reading Comprehension (Đoạn đơn & kép, 54 câu)</li>
+                        </ul>
+                        <div class="bg-light p-2 rounded border mb-2 font-monospace">
+                            &lt;PART id="5"&gt;<br />
+                            &nbsp;&nbsp;&lt;QUESTION_GROUP&gt;<br />
+                            &nbsp;&nbsp;&nbsp;&nbsp;&lt;QUESTION id="101"&gt;<br />
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;STEM&gt;...&lt;/STEM&gt;<br />
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;OPTIONS&gt;<br />
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;OPTION label="A"&gt;...&lt;/OPTION&gt;<br />
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;/OPTIONS&gt;<br />
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;ANSWER&gt;A&lt;/ANSWER&gt;<br />
+                            &nbsp;&nbsp;&nbsp;&nbsp;&lt;/QUESTION&gt;<br />
+                            &nbsp;&nbsp;&lt;/QUESTION_GROUP&gt;<br />
+                            &lt;/PART&gt;
+                        </div>
+                        <p class="text-success mb-0"><i class="fas fa-check mr-1"></i>Hệ thống tự động phát hiện và bóc tách các đoạn văn nhóm và gán đúng câu hỏi.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+@section scripts {
+    <script>
+        $(document).ready(function () {
+            $('#fileInput').on('change', function () {
+                var fileName = $(this).val().split('\\').pop();
+                $(this).next('.custom-file-label').addClass("selected").html(fileName);
+                if (!$('#title').val() && fileName) {
+                    $('#title').val(fileName.replace(/\.[^/.]+$/, ""));
+                }
+            });
+
+            $('#btnValidate').on('click', function () {
+                var file = $('#fileInput')[0].files[0];
+                if (!file) {
+                    alert('Vui lòng chọn file .docx trước khi kiểm tra!');
+                    return;
+                }
+
+                var formData = new FormData();
+                formData.append('file', file);
+                formData.append('requireAnswers', $('#requireAnswers').is(':checked'));
+                var token = $('input[name="__RequestVerificationToken"]').val();
+                if (token) {
+                    formData.append('__RequestVerificationToken', token);
+                }
+
+                var $btn = $(this);
+                $btn.prop('disabled', true).html('<i class="fas fa-spinner fa-spin mr-1"></i> Đang phân tích...');
+
+                $.ajax({
+                    url: '@Url.Action("ValidateDocx", "Exam")',
+                    type: 'POST',
+                    data: formData,
+                    processData: false,
+                    contentType: false,
+                    success: function (res) {
+                        $btn.prop('disabled', false).html('<i class="fas fa-check-double mr-1"></i> Kiểm tra cấu trúc file (Validate)');
+                        var $card = $('#validationResultCard');
+                        $card.removeClass('d-none');
+
+                        var data = (res && res.result) ? res.result : res;
+
+                        if (data && data.isSuccess) {
+                            var html = '<div class="alert alert-success">';
+                            html += '<h6><i class="fas fa-check-circle mr-2"></i><strong>Cấu trúc hợp lệ!</strong></h6>';
+                            html += '<p class="mb-1">Tìm thấy <strong>' + data.totalQuestions + '</strong> câu hỏi thuộc <strong>' + data.totalParts + '</strong> phần thi.</p>';
+                            if (data.warnings && data.warnings.length > 0) {
+                                html += '<hr /><div class="small"><strong>Cảnh báo (' + data.warnings.length + '):</strong><ul>';
+                                data.warnings.slice(0, 5).forEach(function(w) { html += '<li>' + w + '</li>'; });
+                                html += '</ul></div>';
+                            }
+                            html += '</div>';
+                            $card.html(html);
+                        } else {
+                            var html = '<div class="alert alert-warning">';
+                            html += '<h6><i class="fas fa-exclamation-triangle mr-2"></i><strong>File có thể thiếu một số chuẩn:</strong></h6>';
+                            html += '<ul>';
+                            ((data && data.errors) || []).slice(0, 10).forEach(function(e) { html += '<li>' + e + '</li>'; });
+                            html += '</ul>';
+                            html += '<small class="text-muted">Bạn vẫn có thể bỏ chọn "Chế độ nghiêm ngặt" để nhập đề thi và chỉnh sửa câu hỏi sau.</small>';
+                            html += '</div>';
+                            $card.html(html);
+                        }
+                    },
+                    error: function (xhr) {
+                        $btn.prop('disabled', false).html('<i class="fas fa-check-double mr-1"></i> Kiểm tra cấu trúc file (Validate)');
+                        var $card = $('#validationResultCard');
+                        $card.removeClass('d-none');
+                        var msg = (xhr.responseJSON && xhr.responseJSON.message) ? xhr.responseJSON.message : (xhr.statusText || 'Lỗi kết nối máy chủ');
+                        $card.html('<div class="alert alert-danger"><i class="fas fa-exclamation-circle mr-2"></i><strong>Lỗi kiểm tra file:</strong> ' + msg + '</div>');
+                    }
+                });
+            });
+        });
+    </script>
+}

@@ -1,0 +1,32 @@
+# OS / IDE
+.DS_Store
+Thumbs.db
+.~lock.*#
+~$*
+.vs/
+.idea/
+*.swp
+*~
+.gemini/
+
+# .NET & Visual Studio build output
+**/[Bb]in/
+**/[Oo]bj/
+*.user
+*.userosscache
+*.sln.docstates
+*.suo
+
+# Flutter & Dart
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.pub-cache/
+.pub/
+Frontend/build/
+Frontend/.dart_tool/
+
+# Node / Web assets
+**/node_modules/
+**/npm-debug.log
+**/yarn-error.log
